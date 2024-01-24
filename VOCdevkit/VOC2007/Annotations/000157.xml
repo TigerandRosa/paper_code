@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><annotation>
+	<folder>images</folder>
+	<filename>000157.xml</filename>
+	<path>F:\Graduate student - Research - Thesis\Chapter Two - Helmet detection in complex scenarios\datasets\rename-image\000157.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>421</xmin>
+			<ymin>305</ymin>
+			<xmax>444</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>894</xmin>
+			<ymin>1</ymin>
+			<xmax>1278</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>

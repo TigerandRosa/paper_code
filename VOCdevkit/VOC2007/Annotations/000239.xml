@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><annotation>
+	<folder>rotated_img_xml</folder>
+	<filename>000239.xml</filename>
+	<path>F:\Graduate student - Research - Thesis\Chapter Two - Helmet detection in complex scenarios\datasets\rename-image\000239.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>721</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>753</ymin>
+			<xmax>458</xmax>
+			<ymax>1057</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>483</ymin>
+			<xmax>462</xmax>
+			<ymax>742</ymax>
+		</bndbox>
+	</object>
+</annotation>

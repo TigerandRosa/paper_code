@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>002301.jpg</filename>
+	<path>F:\Graduate student - Research - Thesis\Chapter Two - Helmet detection in complex scenarios\VOCdevkit\Images\002301.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>826</width>
+		<height>826</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>414</xmin>
+			<ymin>278</ymin>
+			<xmax>446</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>473</xmin>
+			<ymin>214</ymin>
+			<xmax>504</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>

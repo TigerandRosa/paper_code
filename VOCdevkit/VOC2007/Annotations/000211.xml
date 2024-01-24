@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><annotation>
+	<folder>Rotate</folder>
+	<filename>000211.xml</filename>
+	<path>F:\Graduate student - Research - Thesis\Chapter Two - Helmet detection in complex scenarios\datasets\rename-image\000211.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2127</width>
+		<height>2127</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1154</xmin>
+			<ymin>486</ymin>
+			<xmax>1319</xmax>
+			<ymax>692</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>956</xmin>
+			<ymin>829</ymin>
+			<xmax>1037</xmax>
+			<ymax>912</ymax>
+		</bndbox>
+	</object>
+</annotation>
